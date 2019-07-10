@@ -19,7 +19,7 @@ A curated list of awesome [Presto](https://prestosql.io/) software, libraries, t
 - [Python client for Presto](https://github.com/prestodb/presto-python-client) - Python DB-API client for Presto
 - [PrestoClient](https://github.com/bamcis-io/PrestoClient) - A .NET client for Presto
 - [pyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto
-- https://github.com/linkedin/transport
+- [transport](https://github.com/linkedin/transport) - A framework for writing performant user-defined functions (UDFs) that are portable across a variety of engines including Apache Spark, Apache Hive, and Presto
 -
 
 ## Plugins
