@@ -21,12 +21,12 @@ A curated list of awesome [Presto](https://prestosql.io/) software, libraries, t
 - [PrestoClient](https://github.com/bamcis-io/PrestoClient) - A .NET client for Presto
 - [pyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto
 - [transport](https://github.com/linkedin/transport) - A framework for writing performant user-defined functions (UDFs) that are portable across a variety of engines including Apache Spark, Apache Hive, and Presto
--
 
 ## Plugins
 - Built-in Connectors - Accumulo, Black Hole, Cassandra, Elasticsearch, Hive, JMX, Kafka, Kafka, Kudu, Local File, Memory, MongoDB, MySQL, Phoenix , PostgreSQL, Redis, Redshift, SQL Server, System, Thrift, TPCDS and TPCH Connector
 - [Presto Query Audit Log](https://github.com/zz22394/presto-audit) - Plugin for Presto to save queries and metrics into files
 - [Presto Pulsar connector](https://pulsar.apache.org/docs/en/sql-overview/) - Pulsar SQL: Presto Pulsar connector
+- [Presto DB2 Connector](https://github.com/IBM/presto-db2) - Presto Connector for IBM DB2
 
 ## Tools
 - [presto-gateway](https://github.com/lyft/presto-gateway) - A load balancer / proxy / gateway for prestodb
