@@ -21,3 +21,4 @@ A curated list of awesome [Presto](https://prestosql.io/) software, libraries, t
 ## Docker Images
 
 ## Resources
+- [Presto Newsletter](https://www.starburstdata.com/presto-newsletter/) - Monthly Presto Newsletter curated by Starburst
