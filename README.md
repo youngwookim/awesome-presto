@@ -14,6 +14,7 @@ A curated list of awesome [Presto](https://prestosql.io/) software, libraries, t
 - [Airpal](https://airbnb.io/airpal/) - Web UI for PrestoDB
 - [Apache Superset (incubating)](https://superset.incubator.apache.org/) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [quix](https://wix.github.io/quix/) - Presto-based notebook manager
+- [yanagishima](https://github.com/yanagishima/yanagishima) - Web UI for Presto, Hive, Elasticsearch, SparkSQL
 
 ## Libraries
 - [Python client for Presto](https://github.com/prestodb/presto-python-client) - Python DB-API client for Presto
@@ -39,3 +40,6 @@ A curated list of awesome [Presto](https://prestosql.io/) software, libraries, t
 
 ## Resources
 - [Presto Newsletter](https://www.starburstdata.com/presto-newsletter/) - Monthly Presto Newsletter curated by Starburst
+- [Presto Summit 2019](https://www.starburstdata.com/technical-blog/presto-summit-2019-recap/)
+- [Presto Summit 2018](https://www.starburstdata.com/technical-blog/presto-summit-2018-recap/)
+- [Presto Conference 2019 @ Israel](https://prestosql.io/blog/2019/05/03/Presto-Conference-Israel.html)
