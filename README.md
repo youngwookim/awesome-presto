@@ -7,7 +7,7 @@ A curated list of awesome [Presto](https://prestosql.io/) software, libraries, t
   - [Libraries](#libraries)
   - [Plugins](#plugins)
   - [Tools](#tools)
-  - [Docker Images](#docker-images]
+  - [Docker Images](#docker-images)
   - [Resources](#resources)
 
 ## GUIs
