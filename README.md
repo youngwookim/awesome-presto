@@ -27,6 +27,7 @@ A curated list of awesome [Presto](https://prestosql.io/) software, libraries, t
 - Built-in Connectors - Accumulo, Black Hole, Cassandra, Elasticsearch, Hive, JMX, Kafka, Kafka, Kudu, Local File, Memory, MongoDB, MySQL, Phoenix , PostgreSQL, Redis, Redshift, SQL Server, System, Thrift, TPCDS and TPCH Connector
 - [Presto Pulsar connector](https://pulsar.apache.org/docs/en/sql-overview/) - Pulsar SQL: Presto Pulsar connector
 - [Presto DB2 Connector](https://github.com/IBM/presto-db2) - Presto Connector for IBM DB2
+- [Presto HBase Connector](https://github.com/analysys/presto-hbase-connector)
 - [Presto Query Audit Log](https://github.com/yahoojapan/presto-audit) - Plugin for Presto to save queries and metrics into files
 - https://github.com/rchukh/presto-querylog
 - https://github.com/Shopify/presto-logging-plugin
