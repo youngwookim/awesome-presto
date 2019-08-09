@@ -15,6 +15,7 @@ A curated list of awesome [Presto](https://prestosql.io/) software, libraries, t
 - [Apache Superset (incubating)](https://superset.incubator.apache.org/) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [quix](https://wix.github.io/quix/) - Presto-based notebook manager
 - [yanagishima](https://github.com/yanagishima/yanagishima) - Web UI for Presto, Hive, Elasticsearch, SparkSQL
+- [Redash](https://github.com/getredash/redash) - Query Editor, data visualization and dashboards for multiple databases
 
 ## Libraries
 - [Python client for Presto](https://github.com/prestodb/presto-python-client) - Python DB-API client for Presto
