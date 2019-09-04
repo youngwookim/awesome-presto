@@ -16,6 +16,7 @@ A curated list of awesome [Presto](https://prestosql.io/) software, libraries, t
 - [quix](https://wix.github.io/quix/) - Presto-based notebook manager
 - [yanagishima](https://github.com/yanagishima/yanagishima) - Web UI for Presto, Hive, Elasticsearch, SparkSQL
 - [Redash](https://github.com/getredash/redash) - Query Editor, data visualization and dashboards for multiple databases
+- [Metabase](https://github.com/metabase/metabase) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 
 ## Libraries
 - [Python client for Presto](https://github.com/prestodb/presto-python-client) - Python DB-API client for Presto
