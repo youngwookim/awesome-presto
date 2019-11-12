@@ -39,6 +39,7 @@ A curated list of awesome [Presto](https://prestosql.io/) software, libraries, t
 - [presto-gateway](https://github.com/lyft/presto-gateway) - A load balancer / proxy / gateway for prestodb
 - [Prestogres](https://github.com/treasure-data/prestogres) - PostgreSQL protocol gateway for Presto
 - https://github.com/toyama0919/embulk-input-presto
+- [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 
 ## Docker Images
 - [https://github.com/starburstdata/docker-images](https://github.com/starburstdata/docker-images)
