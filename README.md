@@ -1,5 +1,5 @@
 # Awesome Presto
-A curated list of awesome [Presto](https://prestosql.io/) software, libraries, tools and resources
+A curated list of awesome [PrestoDB](https://prestodb.io/) and [Trino](https://trino.io/)(f.k.a PrestoSQL) software, libraries, tools and resources
 
 ## Table of Contents
 - [Awesome Presto](#awesome-presto)
