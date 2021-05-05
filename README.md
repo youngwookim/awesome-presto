@@ -42,6 +42,7 @@ A curated list of awesome [PrestoDB](https://prestodb.io/) and [Trino](https://t
 - [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 
 ## Docker Images
+- [https://hub.docker.com/r/trinodb/trino](https://hub.docker.com/r/trinodb/trino)
 - [https://github.com/starburstdata/docker-images](https://github.com/starburstdata/docker-images)
 - [https://github.com/Lewuathe/docker-presto-cluster](https://github.com/Lewuathe/docker-presto-cluster)
 - [https://github.com/zhicwu/docker-presto](https://github.com/zhicwu/docker-presto)
