@@ -3,12 +3,20 @@ A curated list of awesome [PrestoDB](https://prestodb.io/) and [Trino](https://t
 
 ## Table of Contents
 - [Awesome Presto](#awesome-presto)
+  - [Trino](#trino)
+  - [PrestoDB](#prestodb)
   - [GUIs](#guis)
   - [Libraries](#libraries)
   - [Plugins](#plugins)
   - [Tools](#tools)
   - [Docker Images](#docker-images)
   - [Resources](#resources)
+
+## Trino
+- [Trino](https://trino.io)
+
+## PrestoDB
+- [PrestoDB](https://prestodb.io)
 
 ## GUIs
 - [Airpal](https://airbnb.io/airpal/) - Web UI for PrestoDB
